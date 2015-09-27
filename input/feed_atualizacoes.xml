@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://calango.club/lib/exe/css.php?s=feed" type="text/css"?>
+<rss version="2.0">
+    <channel>
+        <title>Calango Hacker Clube</title>
+        <description></description>
+        <link>http://calango.club/</link>
+        <lastBuildDate>Sun, 27 Sep 2015 16:54:51 -0400</lastBuildDate>
+        <generator>FeedCreator 1.7.2-ppt DokuWiki</generator>
+        <image>
+            <url>http://calango.club/ttp://calango.club/lib/tpl/greensteel/images/favicon.ico</url>
+            <title>Calango Hacker Clube</title>
+            <link>http://calango.club/</link>
+        </image>
+        <item>
+            <title>start</title>
+            <link>http://calango.club/start?rev=1443371200&amp;do=diff</link>
+            <description>Novidades
+
+	*  Já temos um endereço! CLN 310 bl B sl 51-s
+	*  Estamos recebendo contribuições para manter a nova sede! Quer ajudar? Acesse o Unlock do Calango ou contribua pontualmente
+	*  Acesse também o Planeta Calango ! Agregador de blogs de membros !
+	*  Novos domínios adquiridos para futura escolha. calango.club e calangohacker.club :D :D :D</description>
+            <author>otavio</author>
+            <pubDate>Sun, 27 Sep 2015 12:26:40 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:programacao:horadocodigo2015 - criada</title>
+            <link>http://calango.club/temas/programacao/horadocodigo2015?rev=1443369535&amp;do=diff</link>
+            <description>O Calango vai promover a Hora do Código de 2015 com a seguinte programação:
+ Data    Horário  Tema  05/out/2015, segunda  20h às 22h  Programação (Livre)  06/out/2015, terça  20h às 22h  Programação (Livre)  07/out/2015, quarta  20h às 22h</description>
+            <author>otavio</author>
+        <category>temas:programacao</category>
+            <pubDate>Sun, 27 Sep 2015 11:58:55 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:inicio</title>
+            <link>http://calango.club/temas/inicio?rev=1443366341&amp;do=diff</link>
+            <description>Temas de interesse
+
+O Calango reúne pessoas das mais diversas áreas de conhecimento e está aberto à discussão de qualquer tema.
+
+Damos preferência às questões ligadas ao Open Hardware, software livre e outras vertentes da inclusão tecnológica, mas você pode propor qualquer tema para discutir ou explorar por meio de atividades realizadas no nosso hackerspace.</description>
+            <author>otavio</author>
+        <category>temas</category>
+            <pubDate>Sun, 27 Sep 2015 11:05:41 -0400</pubDate>
+        </item>
+        <item>
+            <title>eventos:inicio</title>
+            <link>http://calango.club/eventos/inicio?rev=1443366201&amp;do=diff</link>
+            <description>Eventos
+
+Espaço reservado para descrição dos eventos desenvolvidos pelo Calango e para documentação dos eventos de que participamos ou promovemos.
+
+Temas recorrentes
+
+Grupo de estudos em Python
+
+Coisas que voam - grupo de estudos sobre vants
+
+Music Hacking
+
+Oficinas de Programacao
+
+Almoços Hacker
+
+Calangouts (Hangouts do Calango)
+
+Encontros do OpenStreetMap
+
+Eventos pontuais
+
+Eu Que Fiz Natal / Hacker Decorações
+
+Oficina de retroprogramação com o Juca do GaroaHC
+
+Consegi 2013
+
+Inauguração Labora…</description>
+            <author>otavio</author>
+        <category>eventos</category>
+            <pubDate>Sun, 27 Sep 2015 11:03:21 -0400</pubDate>
+        </item>
+        <item>
+            <title>projetos:vant:memoria - [Encontro em 10/09/15] </title>
+            <link>http://calango.club/projetos/vant/memoria?rev=1443015445&amp;do=diff</link>
+            <description>Memória de encontros sobre Vants
+
+Encontro em 22/10/14
+
+participaram:
+
+Fabio, Luiz, Oda, Otávio.
+
+No início da reunião, Fabio relatou sobre sua visita à pista do X de Sobradinho no final de semana.  Todo o concreto da pista foi removido, e só havia um aeromodelista no local, que se mostrou surpreso da pista estar naquele estado. Provavelmente a pista está desativada.</description>
+            <author>fabio</author>
+        <category>projetos:vant</category>
+            <pubDate>Wed, 23 Sep 2015 09:37:25 -0400</pubDate>
+        </item>
+        <item>
+            <title>eventos:estudos:vants:inicio</title>
+            <link>http://calango.club/eventos/estudos/vants/inicio?rev=1443015227&amp;do=diff</link>
+            <description>Grupo de estudos  sobre objetos voadores do calango - quintas voadoras!
+
+Encontros às quintas feiras, a cada quinze dias. Próxima data:  Quinta Feira, dia 24/09/2015
+
+Traga seus aeromodelos, drones e similares. Tire dúvidas sobre montagem, configuração, calibração e operação. Treine pilotagem de pequenos drones. Participe de projetos conjuntos de coisas que voam</description>
+            <author>fabio</author>
+        <category>eventos:estudos:vants</category>
+            <pubDate>Wed, 23 Sep 2015 09:33:47 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:cyberpunks - [[#10] décimo encontro (fim do ciclo #01) - 14|set|2015] </title>
+            <link>http://calango.club/temas/cyberpunks?rev=1442620006&amp;do=diff</link>
+            <description>lAbOrAtÓrIO dE IdEIAs: cYbErpUnks &amp; A ÉtIcA pIrAtA
+
+
+
+todas as segundas-feiras das 14h às 16h.
+
+funcionamento: clube de leitura para fins de troca, criação e hacking de ideias. que também poderá ser utilizado como exercício de escrita rumo a um</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Fri, 18 Sep 2015 19:46:46 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:logo_01_-_cyberpunks_ea_etica_pirata.png - criada</title>
+            <link>http://calango.club/?image=temas%3Alogo_01_-_cyberpunks_ea_etica_pirata.png&amp;ns=temas&amp;rev=1442618857&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/logo_01_-_cyberpunks_ea_etica_pirata.png?w=500&amp;h=487&amp;t=1442618857&amp;amp;tok=18c249&quot; alt=&quot;temas:logo_01_-_cyberpunks_ea_etica_pirata.png&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Fri, 18 Sep 2015 19:27:37 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:logo_-_cyberpunks_ea_etica_pirata.png - criada</title>
+            <link>http://calango.club/?image=temas%3Alogo_-_cyberpunks_ea_etica_pirata.png&amp;ns=temas&amp;rev=1442617499&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/logo_-_cyberpunks_ea_etica_pirata.png?w=499&amp;h=487&amp;t=1442617499&amp;amp;tok=33cece&quot; alt=&quot;temas:logo_-_cyberpunks_ea_etica_pirata.png&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Fri, 18 Sep 2015 19:04:59 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:cineclube - [[#04] O Dorminhoco (1973) - Sleeper (EUA)] </title>
+            <link>http://calango.club/temas/cineclube?rev=1442541089&amp;do=diff</link>
+            <description>cin3clUbe cALaNGo h4cKEr
+
+
+
+Responsável: léo pimentel
+
+Concepção:
+
+(Impulso #01) Exibir longas-metragens marcantes da Ficção Científica realizados ao redor do planeta e ao longo da história do cinema. Sendo o gênero SCI-FI um mostrador de visões de futuro, para ampliarmos a nossa própria, é necessário darmos uma espiada nas produções não somente norte-americanas. pois assim temos conhecimento das diversas visões de futuro tidas nos diversos paízes ao longo do tempo.</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Thu, 17 Sep 2015 21:51:29 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:memo_01.jpg - criada</title>
+            <link>http://calango.club/?image=temas%3Amemo_01.jpg&amp;ns=temas&amp;rev=1442540893&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/memo_01.jpg?w=500&amp;h=375&amp;t=1442540893&amp;amp;tok=b64ef8&quot; alt=&quot;temas:memo_01.jpg&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Thu, 17 Sep 2015 21:48:13 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:memo_03.jpg - criada</title>
+            <link>http://calango.club/?image=temas%3Amemo_03.jpg&amp;ns=temas&amp;rev=1442540871&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/memo_03.jpg?w=375&amp;h=500&amp;t=1442540871&amp;amp;tok=4a8499&quot; alt=&quot;temas:memo_03.jpg&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Thu, 17 Sep 2015 21:47:51 -0400</pubDate>
+        </item>
+        <item>
+            <title>membros:leo_pimentel</title>
+            <link>http://calango.club/membros/leo_pimentel?rev=1442540406&amp;do=diff</link>
+            <description>léo pimentel
+
+blog: AmAntE da hErEsIA - textos hereges experimentais
+
+
+
+
+
+vídeos: AH!TV - experimentos em verboaudiovisuais
+
+
+
+
+
+músicas: rUÍdOs Em rUÍnAs - minha história na música
+
+
+
+e-mail: AmAntEdAhErEsIA
+
+rede social: lÉO dA hErEsIA
+
+ uma estranha entrevista comigo:</description>
+            <author>leopimentel</author>
+        <category>membros</category>
+            <pubDate>Thu, 17 Sep 2015 21:40:06 -0400</pubDate>
+        </item>
+        <item>
+            <title>projetos:musichacking:inicio - [Próximo Encontro] </title>
+            <link>http://calango.club/projetos/musichacking/inicio?rev=1442455736&amp;do=diff</link>
+            <description>Grupo de musica eletrônica artesanal.
+
+Interesses :
+
+	*  AtariPunk: &lt;https://www.google.com.br/search?q=ataripunk&amp;tbm=vid&gt;
+	*  Arduino como um sintetizador.
+	*  Arduino pra fazer novas interfaces controlando software de música.
+	*  “Circuit-bending” e “toy-hacking”: &lt;https://www.google.com.br/search?q=circuitbending&amp;tbm=vid&gt;
+	*  Programando em Processing:</description>
+            <author>leopimentel</author>
+        <category>projetos:musichacking</category>
+            <pubDate>Wed, 16 Sep 2015 22:08:56 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:cineclube_07_-_moebius_1996_.png - criada</title>
+            <link>http://calango.club/?image=temas%3Acineclube_07_-_moebius_1996_.png&amp;ns=temas&amp;rev=1442424838&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/cineclube_07_-_moebius_1996_.png?w=352&amp;h=500&amp;t=1442424838&amp;amp;tok=ffcb8f&quot; alt=&quot;temas:cineclube_07_-_moebius_1996_.png&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Wed, 16 Sep 2015 13:33:58 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:projmaphacking</title>
+            <link>http://calango.club/temas/projmaphacking?rev=1442187061&amp;do=diff</link>
+            <description>prOj.mAp.hAckIng - prOJeÇÃo mAPeADa hACkINg
+
+Fizemos um primeiro encontro sobre Projeção Mapeada. A ideia surgiu quando Jerônimo sugeriu que o fizéssemos após saber que o léo havia participado de uma oficina sobre esse tema. Foi um encontro bem informal apenas para termos uma noção do que esse tipo de arte/tecnologia é capaz e o que podemos fazer com ela.</description>
+            <author>rogeriofox</author>
+        <category>temas</category>
+            <pubDate>Sun, 13 Sep 2015 19:31:01 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:10_-_fim_da_antiguidade_cyberpunk.png - criada</title>
+            <link>http://calango.club/?image=temas%3A10_-_fim_da_antiguidade_cyberpunk.png&amp;ns=temas&amp;rev=1442169077&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/10_-_fim_da_antiguidade_cyberpunk.png?w=353&amp;h=499&amp;t=1442169077&amp;amp;tok=cfeecd&quot; alt=&quot;temas:10_-_fim_da_antiguidade_cyberpunk.png&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Sun, 13 Sep 2015 14:31:17 -0400</pubDate>
+        </item>
+        <item>
+            <title>projetos:avr:inicio</title>
+            <link>http://calango.club/projetos/avr/inicio?rev=1442142366&amp;do=diff</link>
+            <description>Micro Hacking
+
+O Micro Hacking é o encontro mensal para conversar e experimentar com os microcontroladores AVR , ARM, Expressiv
+
+Nestes encontros estarão presentes os ATMega, ATtiny , AT90 , Cortex M3/M4/M0 , ESP8266 sem esquecer da participação  dos membros famosos ATMEGA8/168/328 , popularizados pelo Arduino. Vamos conversas sobre as IDEs , linguagens de programação , gravadores de flash e plataformas de desenvolvimento.
+Se puder , traga o seu computador.</description>
+            <author>admin</author>
+        <category>projetos:avr</category>
+            <pubDate>Sun, 13 Sep 2015 07:06:06 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:projection_lpmt.png - criada</title>
+            <link>http://calango.club/?image=temas%3Aprojection_lpmt.png&amp;ns=temas&amp;rev=1442111560&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/projection_lpmt.png?w=500&amp;h=166&amp;t=1442111560&amp;amp;tok=e9825e&quot; alt=&quot;temas:projection_lpmt.png&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Sat, 12 Sep 2015 22:32:40 -0400</pubDate>
+        </item>
+        <item>
+            <title>temas:photo_2015-09-12_21-44-01.jpg - criada</title>
+            <link>http://calango.club/?image=temas%3Aphoto_2015-09-12_21-44-01.jpg&amp;ns=temas&amp;rev=1442110910&amp;tab_details=history&amp;mediado=diff&amp;do=media</link>
+            <description>&lt;img src=&quot;http://calango.club/_media/temas/photo_2015-09-12_21-44-01.jpg?w=500&amp;h=375&amp;t=1442110910&amp;amp;tok=6bd49b&quot; alt=&quot;temas:photo_2015-09-12_21-44-01.jpg&quot; /&gt;</description>
+            <author>leopimentel</author>
+        <category>temas</category>
+            <pubDate>Sat, 12 Sep 2015 22:21:50 -0400</pubDate>
+        </item>
+    </channel>
+</rss>

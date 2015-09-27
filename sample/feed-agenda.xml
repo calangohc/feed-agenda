@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Agenda do Calango</title>
+        <link>http://calango.club/</link>
+        <?observacao description pode conter HTML ?>
+        <?outraobservacao a boa pratica eh codificar caracteres 
+                          especiais em hexa, tipo &#xFF; 
+                          ver http://www.rssboard.org/rss-profile ?>
+        <description>Pr&#xF3;ximos eventos na agenda do Calango Hacker Clube</description>
+        <item>
+            <?observacao RSS soh contem um item com data: pubDate
+                         O padrao eh bem rigido com relacao a formato
+                         de data. ver RFC 822 . Eh possivel que alguns
+                         leitores nao permitam esta data no futuro.
+                         Estou evitando o problema colocando a data 
+                         no titulo no formato usual da wiki.
+                         ?>
+            <title>01/abr/2016, 19h</title>
+            <description>Dia da Mentira</description>
+            <?observacao Pegar o primeiro link na pagina ?>
+            <link>http://calango.club/diadamentira</link>
+        </item>
+    </channel>
+</rss>
